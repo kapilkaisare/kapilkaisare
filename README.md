@@ -1,10 +1,10 @@
 ### Hello, World!
 
-I design and build user centric enterprise class applications that reduce human error, flatten learning curves and improve user productivity.
+I engineer novel user experiences for high cognition workflows.
 
-A SAFe certified professional with over 13 years of experience, I specialize in high cognition workflows in enterprise and consumer grade web applications. I own the production of a user experience from low fidelity wireframes to a finished product and work with server engineering teams to define (and at times implement) apis. I advocate Web Components as a means to framework independence and long term agility. I currently work with Javascript, Typescript, Angular, Ionic, Go, Python and Flask.
+A frontend focused engineer with 15+ years of experience, I specialize in building enterprise and consumer grade web applications that reduce human error, flatten learning curves and improve user productivity. I own the production of a user experience from low fidelity wireframes to a finished product and work with server engineering teams to define (and at times implement) apis. I advocate Web Components as a means to framework independence and long term agility. I currently work with Typescript, React and Elm.
 
-Besides working on UX engineering and information architecture, I study the characteristics of long living software systems, and am researching techniques of incorporating formal method verification in designing human computer interaction.
+Besides working on UX engineering and information architecture, I study the characteristics of long living software systems, and am researching patterns for engineering microfrontends using web components.
 
 <!--
 **kapilkaisare/kapilkaisare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
